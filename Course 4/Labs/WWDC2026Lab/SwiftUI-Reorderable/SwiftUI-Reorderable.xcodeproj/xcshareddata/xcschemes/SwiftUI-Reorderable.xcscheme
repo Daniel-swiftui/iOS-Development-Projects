@@ -17,6 +17,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "040CCA502F7B03170009F25C"
                BuildableName = "SwiftUI-Reorderable.app"
+               BlueprintName = "SwiftUI-Reorderable"
                ReferencedContainer = "container:SwiftUI-Reorderable.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -37,6 +38,7 @@
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
       allowLocationSimulation = "YES"
       queueDebuggingEnabled = "No">
       <BuildableProductRunnable
@@ -45,6 +47,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "040CCA502F7B03170009F25C"
             BuildableName = "SwiftUI-Reorderable.app"
+            BlueprintName = "SwiftUI-Reorderable"
             ReferencedContainer = "container:SwiftUI-Reorderable.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -61,6 +64,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "040CCA502F7B03170009F25C"
             BuildableName = "SwiftUI-Reorderable.app"
+            BlueprintName = "SwiftUI-Reorderable"
             ReferencedContainer = "container:SwiftUI-Reorderable.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

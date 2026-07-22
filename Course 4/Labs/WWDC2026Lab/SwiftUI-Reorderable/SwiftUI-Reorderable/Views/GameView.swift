@@ -14,7 +14,7 @@ struct GameView: View {
     var body: some View {
         GeometryReader { proxy in
             let spacing: CGFloat = 10
-            let cardwidth = (proxy.size.width - 6 * spacing) / 7
+            let cardWidth = (proxy.size.width - 6 * spacing) / 7
             VStack {
                 HStack(alignment: .top, spacing: spacing) {
                     Group {

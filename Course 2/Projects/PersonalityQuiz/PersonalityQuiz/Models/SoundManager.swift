@@ -2,11 +2,11 @@
 //  SoundManager.swift
 //  PersonalityQuiz
 //
-//  Created by Daniel Umpierrez on 3/13/26.
+//  Created by Daniel Umpierrez on 6/24/26.
 //
 
 import Foundation
-import AVKit
+import AVFoundation
 
 class SoundManager {
     static let instance = SoundManager()
